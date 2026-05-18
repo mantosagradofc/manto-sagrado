@@ -291,7 +291,7 @@ export default function FutebolStore() {
                 <img
                   src={product.image}
                   alt={product.name}
-                  className="w-full aspect-square object-cover"
+                  className="w-full h-[420px] object-cover object-center bg-zinc-900"
                 />
 
                 <span className="absolute top-5 left-5 bg-green-500 text-black px-4 py-2 rounded-full text-xs font-black">
