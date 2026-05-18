@@ -18,7 +18,7 @@ export default function FutebolStore() {
       size: ['P', 'M', 'G', 'GG'],
       badge: 'Mais Vendida',
       image:
-        'public/camisas/Brazil 2002/ecb16949.jpg'
+        '/camisas/Brazil 2002/ecb16949.jpg'
     },
     {
       id: 2,
